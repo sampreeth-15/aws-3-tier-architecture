@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+
+# Temp
+*.swp
+*.swo
+
+# Python / Node future folders
+__pycache__/
+node_modules/
+venv/
